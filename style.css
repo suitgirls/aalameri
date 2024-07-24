@@ -1,6 +1,6 @@
-body {color: beige;
+body {color: rgb(1, 49, 7);
 background-color:antiquewhite;
 }
-h1{color: white; background-color: azure;}
-h2{color: azure;}
-a {color: azure;}
+h1{color: rgb(0, 73, 28); background-color: azure;}
+h2{color: rgb(0, 73, 28);}
+a {color: rgb(0, 73, 28);}
