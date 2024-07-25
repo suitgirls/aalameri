@@ -1,6 +1,7 @@
 body {color: rgb(1, 49, 7);
 background-color:antiquewhite;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-h1{color: rgb(0, 73, 28); background-color: azure;}
-h2{color: rgb(0, 73, 28);}
+h1{color: rgb(0, 73, 28); background-color: azure; font-family : Verdana, Tahoma, sans-serif;}
+h2{color: rgb(0, 73, 28);font-family : Verdana, Tahoma, sans-serif}
 a {color: rgb(0, 73, 28);}
