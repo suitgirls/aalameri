@@ -9,5 +9,5 @@ nav {padding: 10px;
     background:darkseagreen;}
 nav a {color: whitesmoke;}
 nav {color:whitesmoke;}
-nav a :hover { background-color: rgb(211, 191, 149)}
+nav a:hover { background-color: rgb(211, 191, 149)}
 a {color: rgb(0, 73, 28);}
