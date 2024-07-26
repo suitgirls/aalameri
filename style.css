@@ -10,4 +10,12 @@ nav {padding: 10px;
 nav a {color: whitesmoke;}
 nav {color:whitesmoke;}
 nav a:hover { background-color: rgb(211, 191, 149)}
+div {
+    border: 1px solid black;
+    margin: 30px;
+    padding: 50px;
+    background-color: white;
+    border-radius: 25px;
+
+}
 a {color: rgb(0, 73, 28);}
